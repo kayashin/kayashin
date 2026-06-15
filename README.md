@@ -1,8 +1,7 @@
-# Hi, I'm Karoline 👋
+# Hello! I'm Karoline :)
 
-I'm a full-stack developer and recent Computer Science graduate looking for my next role. I love building things for the web — from clean UIs to solid backends.
+🌐 **Please visit my portfolio for more info on projects that I've built:** [karoline.dev](https://karoline.dev)
 
-🌐 **Portfolio:** [karoline.dev](https://karoline.dev)
 📫 **Open to:** Full-stack, frontend, or backend roles
 
 ---
@@ -21,16 +20,6 @@ I'm a full-stack developer and recent Computer Science graduate looking for my n
 **Tools & Platforms**
 `Git` `Docker` `Vercel` `Railway` `Salesforce` `Okta`
 
----
-
-## 📌 Featured Projects
-
-- 🎵 [**spotify-quiz-game**](https://github.com/kayashin/spotify-quiz-game) — A music quiz game powered by the Spotify API
-- 🌐 [**portfolio**](https://github.com/kayashin/portfolio) — My personal portfolio site
-- 🎮 [**TJAPrototype**](https://github.com/kayashin/TJAPrototype) — Unity prototype built in C#
-- 🐾 [**audreymeowfurry**](https://github.com/kayashin/audreymeowfurry) — Python project
-
----
 
 ## 📊 GitHub Stats
 
