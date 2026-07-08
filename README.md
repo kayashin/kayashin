@@ -20,7 +20,3 @@
 **Tools & Platforms**
 `Git` `Docker` `Vercel` `Railway` `Salesforce` `Okta`
 
-
-## 📊 GitHub Stats
-
-![Karoline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kayashin&show_icons=true&theme=tokyonight&hide_border=true)
